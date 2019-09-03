@@ -1,0 +1,167 @@
+/* styling the components of the body tag */
+body
+{
+    background-color: black;
+    margin:0px;
+} 
+
+/* styling the main div */
+.main{
+    margin:50px auto;
+    width:30%;
+    padding:20px;
+    background-color:white;
+
+    /* text-align: right; */
+
+}
+
+/* styling the label fields */
+label{
+    text-align: right;
+    display: inline-block;
+    margin: 8px;
+    width: 80px;
+}
+
+/* styling the label field for the text area */
+label[for="about"]{
+    vertical-align: top;
+}
+
+/* styling the submit div */
+.submit{
+    margin-left: 200px;
+}
+
+/* styling the h1 tag components */
+h1{
+    margin: 0px;
+}
+/* .user-id input[type="text"]
+{ */
+/* border: 1px solid green; */
+/* position: relative;
+left: 400px;
+}
+
+
+/* styling the different labels and inputs */
+/*.user-id label
+{ 
+    /* border: 1px solid green; */
+    /* position: relative;
+    left: 400px;
+} */
+
+/* .pass input[type="text"]
+{ */
+    /* border:1px solid green; */
+    /* position: relative;
+    left: 390px;
+} */
+
+/* .pass label{ */
+    /* border:1px solid green; */
+    /* position: relative;
+    left: 390px;
+} */
+
+/* .name input[type="text"]{ */
+    /* border:1px solid green; */
+    /* position: relative;
+    left:413px;
+} */
+
+/* .name label{ */
+    /* border:1px solid green; */
+    /* position: relative;
+    left:413px;
+} */
+/* 
+.add input[type="text"]{ */
+    /* border:1px solid green; */
+    /* position: relative;
+    left:399px;
+} */
+
+/* .add label{ */
+    /* border:1px solid green; */
+    /* position: relative;
+    left:399px;
+} */
+
+/* .count select{ */
+    /* border:1px solid green; */
+    /* position: relative;
+    left:399px;
+} */
+
+/* .count label{ */
+    /* border:1px solid green; */
+    /* position: relative;
+    left:399px;
+} */
+
+/* .zip input[type="text"]{ */
+    /* border:1px solid green; */
+    /* position: relative;
+    left:400px;
+} */
+/* .zip label{ */
+    /* border:1px solid green; */
+    /* position: relative;
+    left:385px;
+} */
+/* 
+.email input[type="email"]{
+    border:1px solid green;
+    position: relative;
+    left:800px;
+}
+
+.email label{
+    border:1px solid green;
+    position: relative;
+    left:800px;
+}
+
+.sex input[type="radio"]{
+    border:1px solid green;
+    position: relative;
+    left:800px;
+}
+
+.sex label{
+    border:1px solid green;
+    position: relative;
+    left:800px;
+}
+
+.lang input[type="checkbox"]{
+    border:1px solid green;
+    position: relative;
+    left:800px;
+}
+
+.lang label{
+    border:1px solid green;
+    position: relative;
+    left:800px;
+}
+
+.about label{
+    border:1px solid green;
+    position: relative;
+    left:800px;
+}
+
+
+.submit input[type="submit"]{
+    border:1px solid green;
+    position: relative;
+    left:800px;
+} */
+/* #txa{
+    margin-left: 500px;
+} */
